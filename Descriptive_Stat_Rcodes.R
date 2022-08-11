@@ -84,8 +84,6 @@ hist(airquality$Solar.R)
 boxplot(airquality$Solar.R)
 boxplot(airquality[,0:4], main='Multiple Box Plots')
 
-boxplot(airquality$Solar.R)
-boxplot(airquality[,0:4], main='Multiple Box Plots')
 
 
 
